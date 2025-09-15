@@ -22,15 +22,17 @@ Tools: Python, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib.
 Here are some key visualizations from the analysis:
 
 ### Correlation Matrix
-![Correlation Matrix](C:\Users\ozda2\OneDrive\שולחן העבודה\Portfolio\Correlation Matrix.png)
+![Correlation Matrix](<img width="1581" height="755" alt="image" src="https://github.com/user-attachments/assets/67912d11-9c8e-4258-bdea-6caa4e6ca2fd" />
+)
 
 ### ROC Curve
-![ROC Curve](<img width="1581" height="755" alt="image" src="https://github.com/user-attachments/assets/67912d11-9c8e-4258-bdea-6caa4e6ca2fd" />
-
+<img width="1563" height="771" alt="image" src="https://github.com/user-attachments/assets/73342c8c-42c0-4a02-9942-5d464439905d" />
+![ROC Curve](<img width="1563" height="771" alt="image" src="https://github.com/user-attachments/assets/73342c8c-42c0-4a02-9942-5d464439905d" />
 )
 
 ### Family Influence
-![Family Influence](images/family_influence.png)
+![Family Influence](<img width="1571" height="775" alt="image" src="https://github.com/user-attachments/assets/7b980a35-065d-42eb-bbab-11223cd7a4f1" />
+)
 
 *(More visualizations and explanations are available in the full report above.)*
  
