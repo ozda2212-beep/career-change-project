@@ -19,7 +19,19 @@ Tools: Python, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib.
 ---
 
 ## Visualizations
-*(To be added soon – Feature Importance, ROC Curve, Correlation Matrix)*  
+Here are some key visualizations from the analysis:
+
+### Correlation Matrix
+![Correlation Matrix](<img width="1581" height="755" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/3242dfba-f77b-4111-9662-782302299011" />)
+
+### ROC Curve
+![ROC Curve](images/roc_curve.png)
+
+### Family Influence
+![Family Influence](images/family_influence.png)
+
+*(More visualizations and explanations are available in the full report above.)*
+ 
 
 ---
 
