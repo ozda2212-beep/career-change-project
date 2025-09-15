@@ -8,10 +8,10 @@ Tools: Python, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib.
 ## Reports
 - [Full Business Proposal – Google Drive](https://drive.google.com/file/d/1ldA6NByaAGfQkBSAUhrDeatKDzyg3hdd/view?usp=sharing)
 - [Q1 Analysis](Q1.ipynb)
-- [Q2 Analysis](reports/Q2.ipynb)
-- [Q3 Analysis](reports/Q3.ipynb)
-- [Q4 Analysis](reports/Q4.ipynb)
-- [Q5 Analysis](reports/Q5.ipynb)
+- [Q2 Analysis](Q2.ipynb)
+- [Q3 Analysis](Q3.ipynb)
+- [Q4 Analysis](Q4.ipynb)
+- [Q5 Analysis](Q5.ipynb)
 ---
 
 ## Project Overview
