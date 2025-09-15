@@ -25,7 +25,9 @@ Here are some key visualizations from the analysis:
 ![Correlation Matrix](C:\Users\ozda2\OneDrive\שולחן העבודה\Portfolio\Correlation Matrix.png)
 
 ### ROC Curve
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](<img width="1581" height="755" alt="image" src="https://github.com/user-attachments/assets/67912d11-9c8e-4258-bdea-6caa4e6ca2fd" />
+
+)
 
 ### Family Influence
 ![Family Influence](images/family_influence.png)
