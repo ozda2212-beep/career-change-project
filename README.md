@@ -31,7 +31,8 @@ Here are some key visualizations from the analysis:
 )
 
 ### Family Influence
-![Family Influence](<img width="1571" height="775" alt="image" src="https://github.com/user-attachments/assets/7b980a35-065d-42eb-bbab-11223cd7a4f1" />
+![Family Influence](<img width="1571" height="775" alt="image" src="https://github.com/user-attachments/assets/e472936d-dfda-4195-8ccb-dcfa8f021897" />
+
 )
 
 *(More visualizations and explanations are available in the full report above.)*
