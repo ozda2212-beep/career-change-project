@@ -6,7 +6,7 @@ Tools: Python, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib.
 ---
 
 ## Reports
-- [Full Business Proposal – Google Drive](https://drive.google.com/file/d/1ldA6NByaGFqkBSAUhrDeatKDzyg3hdd/view?usp=sharing)
+- [Full Business Proposal – Google Drive](https://drive.google.com/file/d/1ldA6NByaAGfQkBSAUhrDeatKDzyg3hdd/view?usp=sharing)
 
 ---
 
