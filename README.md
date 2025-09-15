@@ -22,10 +22,12 @@ Tools: Python, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib.
 Here are some key visualizations from the analysis:
 
 ### Correlation Matrix
-![Correlation Matrix](<img width="1581" height="755" alt="image" src="https://github.com/user-attachments/assets/c0b0ae10-7b11-465c-9185-7003df3886b0" />)
+![Correlation Matrix](<img width="1581" height="755" alt="image" src="https://github.com/user-attachments/assets/53031fcb-84fc-44e9-b59c-307cb22a6839" />)
+
 
 ### ROC Curve
-![ROC Curve](<img width="1563" height="771" alt="image" src="https://github.com/user-attachments/assets/73342c8c-42c0-4a02-9942-5d464439905d" />
+![ROC Curve](<img width="1563" height="771" alt="image" src="https://github.com/user-attachments/assets/fc4138c0-9cc2-4806-89ed-851b1b907d5c" />
+
 )
 
 ### Family Influence
