@@ -22,7 +22,7 @@ Tools: Python, scikit-learn, Pandas, NumPy, Seaborn, Matplotlib.
 Here are some key visualizations from the analysis:
 
 ### Correlation Matrix
-![Correlation Matrix](<img width="1581" height="755" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/3242dfba-f77b-4111-9662-782302299011" />)
+![Correlation Matrix](C:\Users\ozda2\OneDrive\שולחן העבודה\Portfolio\Correlation Matrix.png)
 
 ### ROC Curve
 ![ROC Curve](images/roc_curve.png)
